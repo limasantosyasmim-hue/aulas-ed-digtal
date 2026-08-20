@@ -30,6 +30,8 @@ Criado em: 4 de ago.4 de ago.
 
 <body>
 
+    <div id="container">
+
     <h1><b><u> GAME DO SABER </u></b></h1>
     <p>NOSSA ESCOLA NOSSO COMPROMISSO</p>
     <p style="text-align: center;"> <u>O QUE NÓS PODEMOS FAZER PARA TORNAR NOSSA ESCOLA AINDA MELHOR?</u></p>
@@ -44,6 +46,6 @@ Criado em: 4 de ago.4 de ago.
     dos estudantes e gera um ambiente melhor para todos os envolvidos.</p>
 
 
-
+</div>
 </body>
 </html>
